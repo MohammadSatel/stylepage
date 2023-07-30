@@ -1,0 +1,21 @@
+body {
+    background-color: beige; 
+    color: chocolate;
+}
+h1 {
+    background-color: chocolate; 
+    color: beige;
+    margin-left: 3cm;
+    margin-right: 3cm;
+    margin-top: 3cm;
+    margin-bottom: 3cm;
+    padding-left: 2cm;
+    padding-top: 2cm;
+    padding-bottom: 2cm;
+    padding-right: 2cm
+}
+p {
+    background-color: rgb(204, 81, 105);
+    color: darkkhaki;
+    
+}
